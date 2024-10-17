@@ -10,11 +10,11 @@
 </ul>
 
 ## Methodology
-<p align="justify> Database connection with the frontend - Integrating Streamlit with MongoDB using pymongo allows for seamless interaction between the user interface and the database, enabling efficient data retrieval and manipulation.</p>
+<p align="justify> Database connection with the frontend - Integrating Streamlit with MongoDB using pymongo allows for seamless interaction between the user interface and the database, enabling efficient data retrieval and manipulation</p>
   
 ![image](https://github.com/user-attachments/assets/06aa86db-a208-49b3-92c8-19bb23bf9588)
 
-</p>File upload Process - GridFS, a file storage mechanism offered by MongoDB, is leveraged to manage and store various types of files efficiently. GridFS is particularly suitable for handling large files that exceed the BSON document size limit of MongoDB</p>
+<p align="justify"> File upload Process - GridFS, a file storage mechanism offered by MongoDB, is leveraged to manage and store various types of files efficiently. GridFS is particularly suitable for handling large files that exceed the BSON document size limit of MongoDB</p>
 
 ![image](https://github.com/user-attachments/assets/e706f21d-ecdc-4f42-8539-30054f744b25)
 
