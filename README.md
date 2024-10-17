@@ -22,5 +22,26 @@
   
 ![image](https://github.com/user-attachments/assets/5c28ca32-8f93-4665-b0e7-58947b0ef9ad)
 
+## Home Page
+![image](https://github.com/user-attachments/assets/d1b52863-9353-481e-9b70-6e79c6bcee9a)
+
+## Teacher's Dashboard
+![image](https://github.com/user-attachments/assets/7a9a2f5a-3ce2-4199-bfa1-61ad4843b140)
+![image](https://github.com/user-attachments/assets/6e13d222-5e67-4650-b242-bc70c99ecb62)
+![image](https://github.com/user-attachments/assets/ab8c1183-2ba2-4028-a82d-684977c31fc9)
+![image](https://github.com/user-attachments/assets/e78d312a-73ab-4e8e-90e0-8135533f569e)
+
+## Student's Dashboard
+![image](https://github.com/user-attachments/assets/6bab3de4-35b5-4b20-bae5-c11732d80544)
+![image](https://github.com/user-attachments/assets/55b4cd0f-b198-45df-bf35-a5a4dc00e7e8)
+![image](https://github.com/user-attachments/assets/7fa56995-15bc-40da-8a14-c025fd2036b9)
+
+
+
+
+
+
+
+
 
 
